@@ -4,6 +4,6 @@
 Проект выполнил Alexander
 
 ## Используются технологии
-HTML
-CSS
-Boorstrap v5
+- HTML
+- CSS
+- Boorstrap v5
